@@ -23,30 +23,28 @@ This is a React Native application designed to help users manage their daily tas
 
 ## Screenshots
 
-<table style="margin: 0 auto; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="text-align: center; border: none; padding: 10px;"><h3>Home Screen</h3></td>
-    <td style="text-align: center; border: none; padding: 10px;"><h3>Home Screen With Filter</h3></td>
-    <td style="text-align: center; border: none; padding: 10px;"><h3>Home Screen With Search</h3></td>
+    <td><h3>Home Screen</h3></td>
+    <td><h3>Home Screen With Filter</h3></td>
+    <td><h3>Home Screen With Search</h3></td>
   </tr>
   <tr>
-    <td style="text-align: center; border: none; padding: 10px;"><img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250"/></td>
-    <td style="text-align: center; border: none; padding: 10px;"><img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen With Filter" width="250"/></td>
-    <td style="text-align: center; border: none; padding: 10px;"><img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen With Search" width="250"/></td>
+    <td><img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250"/></td>
+    <td><img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen With Filter" width="250"/></td>
+    <td><img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen With Search" width="250"/></td>
   </tr>
   <tr>
-    <td style="text-align: center; border: none; padding: 10px;"><h3>Add Screen</h3></td>
-    <td style="text-align: center; border: none; padding: 10px;"><h3>Chosen Task Screen</h3></td>
-    <td style="text-align: center; border: none; padding: 10px;"><h3>Edit Screen</h3></td>
+    <td><h3>Add Screen</h3></td>
+    <td><h3>Chosen Task Screen</h3></td>
+    <td><h3>Edit Screen</h3></td>
   </tr>
   <tr>
-    <td style="text-align: center; border: none; padding: 10px;"><img src="screenshots/AddScreen.jpg" alt="Add Screen" width="250"/></td>
-    <td style="text-align: center; border: none; padding: 10px;"><img src="screenshots/ChosenTaskScreen.jpg" alt="Chosen Task Screen" width="250"/></td>
-    <td style="text-align: center; border: none; padding: 10px;"><img src="screenshots/EditScreen.jpg" alt="Edit Screen" width="250"/></td>
+    <td><img src="screenshots/AddScreen.jpg" alt="Add Screen" width="250"/></td>
+    <td><img src="screenshots/ChosenTaskScreen.jpg" alt="Chosen Task Screen" width="250"/></td>
+    <td><img src="screenshots/EditScreen.jpg" alt="Edit Screen" width="250"/></td>
   </tr>
 </table>
-
-
 
 ## Code Structure
 
