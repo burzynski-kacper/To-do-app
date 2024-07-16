@@ -18,7 +18,6 @@ This is a React Native application designed to help users manage their daily tas
 - **React Native**: For building the mobile application.
 - **React Hooks**: For managing state and side effects.
 - **React Context**: For global state management.
-- **PropTypes**: For props validation.
 - **react-native-vector-icons**: For icons.
 
 ## Screenshots
