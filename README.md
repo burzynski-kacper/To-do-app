@@ -25,9 +25,19 @@ This is a React Native application designed to help users manage their daily tas
 
 <table>
   <tr>
+    <td><h1>Home Screen</h1></td>
+    <td><h1>Home Screen With Filter</h1></td>
+    <td><h1>Home Screen With Search</h1></td>
+  </tr>
+  <tr>
     <td><img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250"/></td>
     <td><img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen With Filter" width="250"/></td>
     <td><img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen With Search" width="250"/></td>
+  </tr>
+  <tr>
+    <td><h1>Add Screen</h1></td>
+    <td><h1>Chosen Task Screen</h1></td>
+    <td><h1>Edit Screen</h1></td>
   </tr>
   <tr>
     <td><img src="screenshots/AddScreen.jpg" alt="Add Screen" width="250"/></td>
