@@ -23,13 +23,14 @@ This is a React Native application designed to help users manage their daily tas
 
 ## Screenshots
 
-<img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250"/>
-<img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen" width="250"/>
-<img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen" width="250"/>
-<img src="screenshots/AddScreen.jpg" alt="Home Screen" width="250"/>
-<img src="screenshots/ChosenTask.jpg" alt="Home Screen" width="250"/>
-<img src="screenshots/EditScreen.jpg" alt="Home Screen" width="250"/>
-
+<p style="text-align: center;">
+    <img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250" style="display: inline-block; margin-right: 10px;"/>
+    <img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen With Filter" width="250" style="display: inline-block; margin-right: 10px;"/>
+    <img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen With Search" width="250" style="display: inline-block; margin-right: 10px;"/>
+    <img src="screenshots/AddScreen.jpg" alt="Add Screen" width="250" style="display: inline-block; margin-right: 10px;"/>
+    <img src="screenshots/ChosenTaskScreen.jpg" alt="Chosen Task Screen" width="250" style="display: inline-block; margin-right: 10px;"/>
+    <img src="screenshots/EditScreen.jpg" alt="Edit Screen" width="250" style="display: inline-block; margin-right: 10px;"/>
+</p>
 
 ## Code Structure
 
