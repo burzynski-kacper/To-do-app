@@ -23,7 +23,7 @@ This is a React Native application designed to help users manage their daily tas
 
 ## Screenshots
 
-![Home Screen](screenshots/HomeScreen.jng)
+![Home Screen](screenshots/HomeScreen.jpg)
 
 ## Code Structure
 
