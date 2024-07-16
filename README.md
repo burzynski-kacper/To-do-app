@@ -24,6 +24,12 @@ This is a React Native application designed to help users manage their daily tas
 ## Screenshots
 
 <img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250"/>
+<img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen" width="250"/>
+<img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen" width="250"/>
+<img src="screenshots/AddScreen.jpg" alt="Home Screen" width="250"/>
+<img src="screenshots/ChosenTask.jpg" alt="Home Screen" width="250"/>
+<img src="screenshots/EditScreen.jpg" alt="Home Screen" width="250"/>
+
 
 ## Code Structure
 
