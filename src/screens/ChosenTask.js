@@ -4,7 +4,7 @@ import * as Clipboard from 'expo-clipboard';
 
 import Icon from 'react-native-vector-icons/AntDesign';
 
-import { GlobalStateContext } from "../components/GlobalStateProvider";
+import { GlobalStateContext } from "../context/GlobalStateProvider";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 

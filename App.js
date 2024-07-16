@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack'; 
 import { StatusBar } from 'react-native';
 
-import { GlobalStateProvider } from './src/components/GlobalStateProvider';
+import { GlobalStateProvider } from './src/context/GlobalStateProvider';
 import ChosenTask from './src/screens/ChosenTask';
 import Home from './src/screens/Home';
 import EditTask from './src/screens/EditTask';

@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { StyleSheet, View, Text, TextInput, TouchableOpacity } from "react-native";
 import { Picker } from '@react-native-picker/picker';
 
-import { GlobalStateContext } from "../components/GlobalStateProvider";
+import { GlobalStateContext } from "../context/GlobalStateProvider";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
