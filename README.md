@@ -23,15 +23,18 @@ This is a React Native application designed to help users manage their daily tas
 
 ## Screenshots
 
-<div style="text-align: center;">
-    <img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250" style="float: left; margin-right: 10px;"/>
-    <img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen With Filter" width="250" style="float: left; margin-right: 10px;"/>
-    <img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen With Search" width="250" style="float: left; margin-right: 10px;"/>
-    <img src="screenshots/AddScreen.jpg" alt="Add Screen" width="250" style="float: left; margin-right: 10px;"/>
-    <img src="screenshots/ChosenTaskScreen.jpg" alt="Chosen Task Screen" width="250" style="float: left; margin-right: 10px;"/>
-    <img src="screenshots/EditScreen.jpg" alt="Edit Screen" width="250" style="float: left; margin-right: 10px;"/>
-</div>
-<div style="clear: both;"></div>
+<table>
+  <tr>
+    <td><img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="250"/></td>
+    <td><img src="screenshots/HomeScreenWithFilter.jpg" alt="Home Screen With Filter" width="250"/></td>
+    <td><img src="screenshots/HomeScreenWithSearch.jpg" alt="Home Screen With Search" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/AddScreen.jpg" alt="Add Screen" width="250"/></td>
+    <td><img src="screenshots/ChosenTaskScreen.jpg" alt="Chosen Task Screen" width="250"/></td>
+    <td><img src="screenshots/EditScreen.jpg" alt="Edit Screen" width="250"/></td>
+  </tr>
+</table>
 
 
 ## Code Structure
