@@ -23,18 +23,6 @@ This is a React Native application designed to help users manage their daily tas
 
 ## Screenshots
 
-<style>
-        table {
-            margin: 0 auto; /* Wyśrodkowanie tabeli */
-            border-collapse: collapse; /* Usunięcie odstępów między komórkami */
-        }
-        td {
-            text-align: center; /* Wyśrodkowanie zawartości komórek */
-            border: none; /* Usunięcie obramowania komórek */
-            padding: 10px; /* Dodanie odstępu wewnętrznego dla lepszego wyglądu */
-        }
-    </style>
-
 <table>
   <tr>
     <td><h3>Home Screen</h3></td>
