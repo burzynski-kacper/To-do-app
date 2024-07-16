@@ -23,7 +23,7 @@ This is a React Native application designed to help users manage their daily tas
 
 ## Screenshots
 
-![Home Screen](screenshots/HomeScreen.jpg)
+<img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="500"/>
 
 ## Code Structure
 
