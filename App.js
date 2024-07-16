@@ -33,7 +33,7 @@ export default function App() {
   return (
     <GlobalStateProvider>
       <NavigationContainer>
-        <StatusBar backgroundColor="transparent" barStyle= "dark-content"  />
+        <StatusBar hidden  />
           <Stack.Navigator>
 
           <Stack.Screen name="Home" options={{ headerShown: false }} component={Home} />
