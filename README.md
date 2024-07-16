@@ -21,11 +21,9 @@ This is a React Native application designed to help users manage their daily tas
 - **PropTypes**: For props validation.
 - **react-native-vector-icons**: For icons.
 
-## Usage
+## Screenshots
 
-1. **Adding a Task**: Click on the "Add Task" button, enter the task description and select a category, then click "Save".
-2. **Searching for a Task**: Use the search bar at the top to enter keywords related to the task you are looking for.
-3. **Filtering Tasks**: Use the category picker to filter tasks by specific categories.
+![Home Screen](screenshots/HomeScreen.jng)
 
 ## Code Structure
 
